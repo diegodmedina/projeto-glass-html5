@@ -41,6 +41,10 @@ figure.foto-legenda:hover figcaption{
 
 /* FORMATAÇÃO DO MENU */
 
+nav#menu{
+    display: block;
+}
+
 nav#menu ul{
     list-style: none;
     text-transform: uppercase;
@@ -48,4 +52,7 @@ nav#menu ul{
 
 nav#menu li{
     display: inline-block;
+    background-color: #dddddd;
+    padding: 10px;
+    margin: 2px;
 }
