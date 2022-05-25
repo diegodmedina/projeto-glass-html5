@@ -1,7 +1,7 @@
-## PROJETO-GOOGLE-GLASS-HTML5
+# PROJETO-GOOGLE-GLASS-HTML5
 
-### Sobre o projeto
+## Sobre o projeto
  Projeto desenvolvido em aula do curso em video
 
-# Pre Requisitos
+### Pre Requisitos
 
