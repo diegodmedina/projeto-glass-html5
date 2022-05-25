@@ -1,2 +1,7 @@
-# projeto-glass-html5
- projeto feito no curso em video
+## PROJETO-GOOGLE-GLASS-HTML5
+
+### Sobre o projeto
+ Projeto desenvolvido em aula do curso em video
+
+### Pre Requisitos
+
